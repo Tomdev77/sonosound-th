@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/sonosound-th/static/css/main.c93c142e.css",
+    "main.js": "/sonosound-th/static/js/main.1135779a.js",
+    "static/media/videobg.mp4": "/sonosound-th/static/media/videobg.cb8d803a1d007fda586f.mp4",
+    "static/media/taylor.jpeg": "/sonosound-th/static/media/taylor.96bde428ac0fde9624a7.jpeg",
+    "static/media/maneskin-2022.jpg": "/sonosound-th/static/media/maneskin-2022.fc153adcaaf8e6ccf70e.jpg",
+    "static/media/davidguetta.jpg": "/sonosound-th/static/media/davidguetta.3b82f36c02a2af16226b.jpg",
+    "static/media/orelsanland.jpg": "/sonosound-th/static/media/orelsanland.68de0afd544f14baff32.jpg",
+    "static/media/RATP.svg.png": "/sonosound-th/static/media/RATP.svg.0d6839222aea793531cc.png",
+    "static/media/calvinharris.jpg": "/sonosound-th/static/media/calvinharris.df4b43719c0ac6a88ecf.jpg",
+    "static/media/location-pin.png": "/sonosound-th/static/media/location-pin.72abcb1da6f26200536c.png",
+    "static/media/twitter.png": "/sonosound-th/static/media/twitter.7e40f617aaa8eca864bb.png",
+    "static/media/billet.png": "/sonosound-th/static/media/billet.e0e7aa74c1efd06629da.png",
+    "static/media/linkedin.png": "/sonosound-th/static/media/linkedin.41a23f98c77f41c13b8e.png",
+    "static/media/shop.png": "/sonosound-th/static/media/shop.fd83697e4c486b83f8b7.png",
+    "static/media/instagram.png": "/sonosound-th/static/media/instagram.58e0bfafc4ac0fcdb6f6.png",
+    "static/media/revicons.eot": "/sonosound-th/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/sonosound-th/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/facebook.png": "/sonosound-th/static/media/facebook.7f802b11d73c0a86ed79.png",
+    "static/media/revicons.woff": "/sonosound-th/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/sonosound-th/index.html",
+    "main.c93c142e.css.map": "/sonosound-th/static/css/main.c93c142e.css.map",
+    "main.1135779a.js.map": "/sonosound-th/static/js/main.1135779a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c93c142e.css",
+    "static/js/main.1135779a.js"
+  ]
+}
